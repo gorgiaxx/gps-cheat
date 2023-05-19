@@ -61,8 +61,8 @@ loginurl = "https://urs.earthdata.nasa.gov/login"
 
 form = {
     'authenticity_token':'',
-    'username':'Alone1230',
-    'password':'123456aA'
+    'username':'123456',
+    'password':'123456'
 }
 
 headers = {
